@@ -14,7 +14,8 @@
     }
   ],
   "require": {
-    "pantheon-upstreams/upstream-config": "*"
+    "pantheon-upstreams/upstream-config": "*",
+    "vlucas/phpdotenv": "3.1.0"
   },
   "config": {
     "vendor-dir": "vendor",
@@ -23,6 +24,10 @@
     "sort-packages": true,
     "platform": {
       "php": "7.2"
+    },
+    "allow-plugins": {
+      "johnpbloch/wordpress-core-installer": true,
+      "composer/installers": true
     }
   },
   "extra": {
