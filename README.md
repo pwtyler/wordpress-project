@@ -6,4 +6,4 @@ on customizing this upstream and instructions on how to use it to create individ
 
 For more information and detailed installation guides, please visit the Integrated Composer Pantheon documentation: https://pantheon.io/docs/integrated-composer
 
-## FOO!
+## FOO!foo
